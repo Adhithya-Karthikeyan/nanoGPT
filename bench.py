@@ -23,6 +23,7 @@ exec(open('configurator.py').read()) # overrides from command line or config fil
 # -----------------------------------------------------------------------------
 
 
+
 torch.manual_seed(seed)
 torch.cuda.manual_seed(seed)
 torch.backends.cuda.matmul.allow_tf32 = True # allow tf32 on matmul
