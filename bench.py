@@ -8,6 +8,8 @@ import time
 import torch
 from model import GPTConfig, GPT
 #check
+#hello
+
 
 # -----------------------------------------------------------------------------
 batch_size = 8
