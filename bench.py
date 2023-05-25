@@ -27,6 +27,7 @@ print('helloss')
 print("check me ")
 print("initial commit")
 print('final commit')
+print('final 1 commit')
 
 torch.manual_seed(seed)
 torch.cuda.manual_seed(seed)
