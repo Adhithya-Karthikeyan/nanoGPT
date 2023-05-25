@@ -25,6 +25,8 @@ exec(open('configurator.py').read()) # overrides from command line or config fil
 
 print('helloss')
 print("check me ")
+print("initial commit")
+print('final commit')
 
 torch.manual_seed(seed)
 torch.cuda.manual_seed(seed)
